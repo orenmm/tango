@@ -1,0 +1,108 @@
+{"minVersion":"0.1","headerImage":"https://i.imgur.com/Fg4aLIV.png",
+
+
+
+"tintColor":"#4f85f3","tabs":
+
+
+
+
+[{"tabname":"Details","views":[{"class":"DepictionScreenshotsView","screenshots":[
+
+{"url":"https://i.imgur.com/MDepdQa.png","accessibilityText":"Screenshot"},
+
+{"url":"https://i.imgur.com/jt6VYMo.png","accessibilityText":"Screenshot"},
+
+{"url":"https://i.imgur.com/wUWJoOL.png","accessibilityText":"Screenshot"},
+
+"itemCornerRadius":8,"itemSize":"{228,399}"},
+
+
+
+{"markdown":"Gradient theme with vibrant colors containing subtle shadows and a fresh touch.
+
+
+\n
+\n
+856 icons, Settings theme, Unique icon mask, 6 Icon Effects (AE), 157 Alternative icons, Custom unique badge.
+\n
+\n
+Tango will get updates frequently. You can request up to 20 icons. 
+\n
+\n
+**a note to Snowboard users only:**
+\n- 
+you must add Icon Effects extension ,Icon Masks extension and Settings icons extension for full support. and enable the AE you want in Snowboard settings.
+\n
+- Refunds will be declined after 1 day of use."
+
+
+
+,"useSpacing":"true","class":"DepictionMarkdownView"},{"class":"DepictionSpacerView"},{"class":"DepictionHeaderView","title":"Information"},{"class":"DepictionTableTextView","title":"Developer","text":"ConorTheDev"},
+
+
+{"class":"DepictionTableTextView","title":"Version","text":"1.20"},
+
+
+{"class":"DepictionTableTextView","title":"Compatibility","text":"iOS 7.0 to 13.5"},{"class":"DepictionTableTextView","title":"Section","text":"Themes"},
+
+{"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView",
+
+"title":"Contact & Support","action":"https://twitter.com/wildheeart","openExternal":"true","tintColor":"#4f85f3"},{"class":"DepictionSpacerView"},
+
+
+
+{"class":"DepictionTableButtonView","title":"Contact Support",
+
+"action":"depiction-https://repo.conorthedev.me/depiction/native/help/me.conorthedev.mitsuhaforever.json",
+
+"openExternal":"true",
+
+"tintColor":"#4f85f3"},{"class":"DepictionLabelView","text":"","textColor":"#999999","fontSize":"10.0","alignment":1}],"class":"DepictionStackView"},{"tabname":"Changelog","views":
+
+
+
+
+
+[{"class":"DepictionMarkdownView","markdown":"#### Version 1.19
+\n
+\n
+- Added 100 icons
+\n
+- Color adjustments
+\n
+- New Alt icons"},
+
+
+
+
+
+{"class":"DepictionMarkdownView","markdown":"#### Version 1.20
+\n
+\n
+- Added 50 icons"},
+
+
+
+{"class":"DepictionLabelView","text":"","textColor":"#999999","fontSize":"10.0","alignment":1}],
+"class":"DepictionStackView"}],"class":"DepictionTabView"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
